@@ -4,6 +4,8 @@ The `og-image` generator, is a [kubernetes](https://kubernetes.io/) based node a
 
 This project is supported by [SideStream](https://www.sidestream.tech/) and was planned to help me better understand nodeJS applications and setting up my own scaleable kubernetes cluster.
 
+You can follow the development progress in our [public roadmap](https://github.com/benediktkaiser/og-image/projects/1). 
+
 ## What is an OG-Image?
 
 When optimising your website for search engines and social media sites, developers use [The Open Graph protocol](https://ogp.me/). This protocol is a universally adopted method of conveying, meta data about your site to search engines and social media sites.  
